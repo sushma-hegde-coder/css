@@ -1,4 +1,4 @@
 /*****imp**************/
 display: flex;
-align-items: center;
-justify-content:center;
+align-items: center; -- it is for horizontal --come to center in horizontal of flex-box(flex-container)
+justify-content:center;  --it is for vertical-- come to center in vertical of flex-box(flex-container)
